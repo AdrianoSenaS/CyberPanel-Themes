@@ -1,4 +1,4 @@
-# True Dark CyberPanel Theme
+# HOSTSA THEME
 
 ##Copy this entire code into your CyberPanel -> Design Menu > Editor. After that, press "Save Changes" Button to apply it.
 
